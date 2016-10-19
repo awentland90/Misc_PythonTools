@@ -1,8 +1,6 @@
 # Python_Tools
-Collection of Python tools I have developed for personal use
-Email awentland90@gmail.com for comments and bugs
+Collection of Python tools I have developed for personal use.
 
-
-Program Name: Description
+Tools
 
 process_monitor.py: Emails user details of ongoing Linux process
