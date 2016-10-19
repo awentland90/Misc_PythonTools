@@ -5,7 +5,6 @@ from subprocess import call
 import smtplib
 import subprocess
 from email.mime.text import MIMEText
-import getpass
 
 '''
 Program: Linux Process Monitor
